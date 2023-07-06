@@ -1,0 +1,6 @@
+transformers
+datasets
+seqeval
+sentencepiece
+sacrebleu
+bert_score
