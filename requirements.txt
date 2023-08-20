@@ -4,3 +4,5 @@ seqeval
 sentencepiece
 sacrebleu
 bert_score
+sentencepiece
+sacremoses
